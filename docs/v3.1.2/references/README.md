@@ -1,6 +1,6 @@
 # References
 
-- [Namespaced Enumerations](Namespaced%20Enumerations.md)
+- [Namespaced Enumerations](Namespaced%20Enumerations)
 - [Domestic Payment Message Formats](Domestic%20Payment%20Message%20Formats.md)
 
 ## Usage Examples
